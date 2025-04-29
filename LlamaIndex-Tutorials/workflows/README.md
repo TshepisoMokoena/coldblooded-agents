@@ -44,14 +44,15 @@ Each notebook in this repo focuses on one important Workflow concept:
    ```bash
    pip install llama-index python-dotenv
 
-⚠️ Disclaimer
-Some examples and conceptual materials in this repository were adapted from the official LlamaIndex documentation and examples, and reorganized to provide clearer step-by-step explanations.
-These notebooks were prepared with the assistance of ChatGPT to simplify concepts, accelerate learning, and provide runnable, hands-on guides.
+## ⚠️ Disclaimer
 
-They are intended for educational and personal testing purposes only.
-All original copyrights, trademarks, and intellectual property remain the property of LlamaIndex and their respective owners.
+Examples and materials in this repository were taken **verbatim** from the **official LlamaIndex documentation**,  
+and were reorganized, formatted, and expanded with the **assistance of ChatGPT** to provide clearer, runnable, step-by-step tutorials.  
 
-✅ Use these notebooks responsibly for learning and experimentation.
+These notebooks are intended for **educational and personal testing purposes only**.  
+All copyrights, trademarks, and intellectual property remain with **LlamaIndex** and their respective owners.
 
-🎯 Motto:
-"Build workflows fast. Understand them faster."
+✅ Use responsibly for learning, experimentation, and fast prototyping.
+
+# 🐊 ColdBlooded Motto
+> **"Calculated. Relentless. Coldblooded."**
